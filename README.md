@@ -1,4 +1,4 @@
-# EN3160 - Image Fitting and Alignment Assignment
+#Image Fitting and Alignment
 
 ## Overview
 This repository contains the code and materials for the EN3160 assignment on image fitting and alignment. The assignment explores blob detection, RANSAC-based line and circle fitting, homography computation for image overlay, and image stitching using SIFT feature matching.
